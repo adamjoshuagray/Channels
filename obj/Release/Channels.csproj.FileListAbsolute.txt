@@ -1,0 +1,7 @@
+C:\Documents and Settings\Owner\My Documents\Dropbox\Code\Predictor\Channels\bin\Release\Channels.dll
+C:\Documents and Settings\Owner\My Documents\Dropbox\Code\Predictor\Channels\bin\Release\Channels.pdb
+C:\Documents and Settings\Owner\My Documents\Dropbox\Code\Predictor\Channels\bin\Release\Tasks.dll
+C:\Documents and Settings\Owner\My Documents\Dropbox\Code\Predictor\Channels\bin\Release\Tasks.pdb
+C:\Documents and Settings\Owner\My Documents\Dropbox\Code\Predictor\Channels\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Dropbox\Code\Predictor\Channels\obj\Release\Channels.dll
+C:\Documents and Settings\Owner\My Documents\Dropbox\Code\Predictor\Channels\obj\Release\Channels.pdb
